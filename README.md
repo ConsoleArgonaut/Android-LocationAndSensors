@@ -8,3 +8,5 @@ For Maps you can also just create a new Project with the Google Maps Template in
 
 To get location you need to get the permission for location data first. 
 Then use the code "mMap.setMyLocationEnabled(true);"
+
+
